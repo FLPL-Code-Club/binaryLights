@@ -1,0 +1,24 @@
+{
+  "name": "binaryLights",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lights.js",
+  "dependencies": {
+    "prompt": "^0.2.14",
+    "wiring-pi": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FLPL-Code-Club/binaryLights.git"
+  },
+  "author": "Patrick Lindsay and Atticus Wright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FLPL-Code-Club/binaryLights/issues"
+  },
+  "homepage": "https://github.com/FLPL-Code-Club/binaryLights"
+}
